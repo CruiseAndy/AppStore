@@ -1,0 +1,1 @@
+export const IMG_MAIN_BG = require("../images/index_bg.png");

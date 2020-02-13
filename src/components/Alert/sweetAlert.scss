@@ -1,0 +1,16 @@
+.swal2-container {
+  .alert_content_list {
+    > li {
+      list-style: none;
+      text-align: left;
+      >span.title {
+        font-size: 18px;
+        font-weight: 600;
+        margin-right: 10px;
+      }
+      >span.text {
+        color: #76838f;
+      }
+    }
+  }
+}
